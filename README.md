@@ -1,3 +1,3 @@
 # heapsort
 
-A description of this project.
+Complete version of Vala Minimum HeapSort
